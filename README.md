@@ -24,8 +24,8 @@ stack technologies 🖥</h3>
  <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="www.linkedin.com/in/shagun-sharma-a17245234">
-    <img src="https://img.shields.io/badge/Shagun Sharma-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/nikhil-sahni-8a3562239/">
+    <img src="https://img.shields.io/badge/Nikhil Sahni-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:shagun08081999@gmail.com">
     <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
