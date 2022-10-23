@@ -4,7 +4,7 @@ knowledge of HTML, CSS, JavaScript, ReactJS, NodeJS, and
 ExpressJS. Ability to build user-centric websites with MERN
 stack technologies 🖥</h3>
 
-<p><img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="110%" height="500px" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" height="400px" /></p>
 
 
 
