@@ -11,7 +11,7 @@ stack technologies 🖥</h3>
 
 - 🌱 I’m currently learning at **Masai School**
 
- - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>  
+ - 👨‍💻 Resume & All of my projects are available at  <a href="https://snikhil2001.github.io/">Click Me</a>  
 
 - 📫 How to reach me **nikhilsahni2001@gmail.com**
 
@@ -21,14 +21,14 @@ stack technologies 🖥</h3>
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
- <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing">
+<!--  <a href="https://drive.google.com/file/d/1PBY-d_VQ7YYMDsZfWo6_8qfhQGVcui1I/view?usp=sharing">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/nikhil-sahni-8a3562239/">
     <img src="https://img.shields.io/badge/Nikhil Sahni-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:shagun08081999@gmail.com">
-    <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:nikhilsahni2001@gmail.com">
+    <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 <!--   <a href="https://harshal-jadhav.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
@@ -37,7 +37,7 @@ stack technologies 🖥</h3>
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=shagun0061&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=snikhil2001&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
 <h1></h1>
 
  
