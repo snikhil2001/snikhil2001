@@ -28,7 +28,7 @@ stack technologies 🖥</h3>
     <img src="https://img.shields.io/badge/Nikhil Sahni-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nikhilsahni2001@gmail.com">
-    <img src="https://img.shields.io/badge/Shagun Sharma-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Nikhil Sahni-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 <!--   <a href="https://harshal-jadhav.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
