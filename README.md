@@ -66,7 +66,7 @@ stack technologies 🖥</h3>
   <a href="https://github.com/snikhil2001/github-readme-stats"><img width="80%" alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
     <a href="https://github.com/snikhil2001/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=snikhil2001&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=snikhil2001&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" />
      
     <a href="https://github.com/snikhil2001/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" />
 </div>
