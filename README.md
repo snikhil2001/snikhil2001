@@ -63,7 +63,7 @@ stack technologies 🖥</h3>
       </a>
     </p>   
     <p align="center">
-  <a href="https://github.com/snikhil2001/github-readme-stats"><img alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/snikhil2001/github-readme-stats"><img width="100%" alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
      <br/>
    <p align="center">
