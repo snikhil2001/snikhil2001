@@ -54,7 +54,7 @@ stack technologies 🖥</h3>
 
 ## Current Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001)]
 
 [![Nikhil's github activity graph]([https://github-readme-stats.vercel.app/api/top-langs?username=snikhil2001&show_icons=true&locale=en&layout=compact])
 
