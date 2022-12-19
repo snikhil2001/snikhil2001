@@ -52,11 +52,22 @@ stack technologies 🖥</h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 
-## Current Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001)(https://github.com/anuraghazra/github-readme-stats)
-
-[![Nikhil's github activity graph]([https://github-readme-stats.vercel.app/api/top-langs?username=snikhil2001&show_icons=true&locale=en&layout=compact])
-
-| ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&theme=dark) | ![Nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snikhil2001&theme=dark) |
-| :---: | :---: |
+<h2 align="center">:bar_chart: My Github Stats</h2>
+   <br/>
+    <p align="center">
+  <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbansharma1996&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>
+     <br/>
+   <p align="center">
+    <a href="https://github.com/anirbansharma1996/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbansharma1996&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
+  <br/>
+  <br/>
+     <p align="center">
+    <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirbansharma1996&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
+    </p>
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+<br/>
+<br/>
