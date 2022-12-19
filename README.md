@@ -57,7 +57,7 @@ stack technologies 🖥</h3>
 |   ![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=snikhil2001&theme=rogue) |
 | :---: |
 
-     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadK05" />  
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadK05" />  
 
 | ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&theme=dark) | ![Nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snikhil2001&theme=dark) |
 | :---: | :---: |
