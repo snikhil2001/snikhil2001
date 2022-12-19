@@ -55,10 +55,10 @@ stack technologies 🖥</h3>
 <h2 align="center">:bar_chart: My Github Stats</h2>
    <br/>
    <p>
- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=anirbansharma1996&theme=react">
+ <a href="https://github-readme-activity-graph.cyclic.app/graph?username=snikhil2001&theme=react">
         <img
-          alt="anirbansharma1996 Activity Graph"
-          src="https://github-readme-activity-graph.cyclic.app/graph?     username=anirbansharma1996&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
+          alt="Nikhil's Activity Graph"
+          src="https://github-readme-activity-graph.cyclic.app/graph?username=snikhil2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
         />
       </a>
     </p>   
