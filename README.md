@@ -63,22 +63,11 @@ stack technologies 🖥</h3>
       </a>
     </p>   
     <div display="flex" gap="10px" >
-  <h2 align="center">:bar_chart: My Github Stats</h2>
-   <br/>
-    <p align="center">
   <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbansharma1996&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>
-     <br/>
-   <p align="center">
     <a href="https://github.com/anirbansharma1996/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbansharma1996&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>
-  <br/>
-  <br/>
-     <p align="center">
     <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirbansharma1996&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
-    </p>
 </div>
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 <br/>
