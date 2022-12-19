@@ -56,7 +56,7 @@ stack technologies 🖥</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001)](https://github.com/anuraghazra/github-readme-stats)
 
-|   ![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=snikhil2001&theme=rogue) |
+ ![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=snikhil2001&theme=rogue) 
 
 | ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&theme=dark) | ![Nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snikhil2001&theme=dark) |
 | :---: | :---: |
