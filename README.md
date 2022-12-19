@@ -54,6 +54,14 @@ stack technologies 🖥</h3>
 
 <h2 align="center">:bar_chart: My Github Stats</h2>
    <br/>
+   <p>
+ <a href="https://github-readme-activity-graph.cyclic.app/graph?username=anirbansharma1996&theme=react">
+        <img
+          alt="anirbansharma1996 Activity Graph"
+          src="https://github-readme-activity-graph.cyclic.app/graph?     username=anirbansharma1996&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
+        />
+      </a>
+    </p>   
     <p align="center">
   <a href="https://github.com/snikhil2001/github-readme-stats"><img alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
