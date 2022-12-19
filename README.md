@@ -62,7 +62,8 @@ stack technologies 🖥</h3>
         />
       </a>
     </p>   
-    <p align="center">
+    <div display="flex" >
+ <p align="center">
   <a href="https://github.com/snikhil2001/github-readme-stats"><img width="100%" alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
      <br/>
@@ -76,6 +77,7 @@ stack technologies 🖥</h3>
      <p align="center">
     <a href="https://github.com/snikhil2001/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
     </p>
+</div>
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 <br/>
 <br/>
