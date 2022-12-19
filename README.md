@@ -63,12 +63,12 @@ stack technologies 🖥</h3>
       </a>
     </p>   
     <div display="flex" gap="10px" >
-  <a href="https://github.com/snikhil2001/github-readme-stats"><img width="80%" alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/snikhil2001/github-readme-stats"><img width="80%" alt="snikhil2001 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhil2001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
     <a href="https://github.com/snikhil2001/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=snikhil2001&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
-    <a href="https://github.com/snikhil2001/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
+     
+    <a href="https://github.com/snikhil2001/github-readme-stats"><img alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snikhil2001&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" />
 </div>
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 <br/>
