@@ -61,9 +61,9 @@ stack technologies 🖥</h3>
           src="https://github-readme-activity-graph.cyclic.app/graph?username=snikhil2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
         />
       </a>
-    </p>   
+    </p>
+    <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbansharma1996&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <div display="flex" gap="10px" >
-  <a href="https://github.com/anirbansharma1996/github-readme-stats"><img alt="anirbansharma1996 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirbansharma1996&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/anirbansharma1996/github-readme-streak-stats">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anirbansharma1996&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
